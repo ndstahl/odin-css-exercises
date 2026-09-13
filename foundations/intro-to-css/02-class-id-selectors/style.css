@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.bkgrd-color {
+    background-color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.lrg-font {
+    font-size: 36px;
+}
